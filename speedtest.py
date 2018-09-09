@@ -1096,7 +1096,7 @@ class fttggt ( xbmcgui . WindowXMLDialog ) :
    urllib . urlretrieve ( TGFGGGGGFGFGG , FFTFGF + '%s.png' % TFGTTGTGGFG [ 0 ] )
    if 77 - 77: TGFFGGFTFGGF + tftgtgg / ftgf + tg * fgfttfgtgtff
    if 28 - 28: fftftgf + FGGFTFFTFF / TGGF % tftfttgg % tfgtff - tg
-def fffgttt ( ) :
+def speedtest ( ) :
  FFFGTFGTFG = fttggt ( "main.xml" , ftgfTTTT . getAddonInfo ( 'path' ) , "Defaultskin" )
  del FFFGTFGTFG
  if 21 - 21: ftgf . TGTFGGG . ttffttf / tfgtff / TGTFGGG
