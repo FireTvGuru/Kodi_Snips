@@ -746,11 +746,11 @@ class fttggt ( xbmcgui . WindowXMLDialog ) :
   self . imgFinalResults . setEnabled ( True )
   if 19 - 19: TGTFFT
  def showEndResultSP ( self ) :
-  self . rec_speed = xbmcgui . ControlImage ( 550 , 550 , 850 , 500 , '' , aspectRatio = 0 )
+  self . rec_speed = xbmcgui . ControlTextBox ( 525 , 750 , 950 , 550 , textColor = '0xFFFFFFFF' )
   self . addControl ( self . rec_speed )
   self . rec_speed . setVisible ( False )
   self . rec_speed . setEnabled ( False )
-  self . rec_speed . setImage ( self . rec_speedpic )
+  self . rec_speed . setText ( "" . join ( "[B]Recomenended Speeds for Streaming! \n3 to 5 Mb/s for viewing standard definition 480p video \n5 to 10 Mb/s for viewing high-def 720p video \n10+ Mb/s or more for the best  1080p experience \n10+ Mb/s for the best Live TV Streaming experience \n25 to 50+ Mb/s 4K streaming \nAll Speeds are based on the device not what speed you pay for![/B]" ) )
   self . rec_speed . setAnimations ( [
  ( 'conditional' ,
  'effect=fade start=0 end=100 time=1000 delay=100 condition=Control.IsVisible(%d)' % self . rec_speed . getId ( ) ) ,
@@ -1101,4 +1101,4 @@ def speedtest ( ) :
  del FFFGTFGTFG
  if 21 - 21: ftgf . TGTFGGG . ttffttf / tfgtff / TGTFGGG
  if 17 - 17: ttffttf / ttffttf / TGGF
-# Dont be mad
+# fd678faae9ac167tc83abf78e5cb2f3f0688d3ag
